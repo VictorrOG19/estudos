@@ -1,2 +1,2 @@
-# estudos
-Apenas meus Estudos de HTML5 e CSS3
+# Estudos
+Apenas meus Estudos de HTML5, CSS3 e JavaScript
